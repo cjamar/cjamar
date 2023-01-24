@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+CSS3 HTML5 PHP JavaScript Bootstrap jQuery Less NPM SASS Symfony Vue.js Webpack Nginx MySQL Gimp Gnu Image Manipulation Program Docker Notion
+
 <!--
 **cjamar/cjamar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
