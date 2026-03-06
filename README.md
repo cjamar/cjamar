@@ -1,4 +1,4 @@
-# Hi, I'm Carlos 👋
+# Hi, I'm Carlos 👋 | 🤖 & 🎨
 
 **Frontend Developer** & **UX/UI Designer** based in Spain.
 
