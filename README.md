@@ -81,7 +81,7 @@ I care a lot about **clarity, usability and thoughtful interfaces**.
 
 - Portfolio: https://cjamar.github.io  
 - GitHub: https://github.com/cjamar  
-- LinkedIn: linkedin.com/in/carlos-jamar/
+- LinkedIn: https://linkedin.com/in/carlos-jamar
 
 ---
 
