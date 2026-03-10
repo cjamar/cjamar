@@ -12,7 +12,7 @@ Currently focused on **frontend and mobile apps**, mostly using **Flutter** and 
 
 _Flutter • JavaScript • HTML • CSS • Angular  
 Supabase • REST APIs • Clean architecture 
-Figma • UX/UI Design_
+• Figma • UX/UI Design_
 
 ---
 
