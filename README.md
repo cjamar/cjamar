@@ -1,4 +1,4 @@
-# Hi, I'm Carlos 👋 | 🤖 & 🎨
+# Hi, I'm Carlos 📱 & 🎨
 
 Frontend Developer and UX/UI Designer based in Spain.
 
@@ -28,6 +28,6 @@ _Flutter • BLoC • Supabase Auth • Realtime database_
 
 ## 📫 Connect with me
 
-- 🌐 Portfolio: https://cjamar.github.io  
-- 🐙 GitHub: https://github.com/cjamar  
-- LinkedIn: https://linkedin.com/in/carlos-jamar
+  🌐 Portfolio: https://cjamar.github.io  
+  🐙 GitHub: https://github.com/cjamar  
+  💼 LinkedIn: https://linkedin.com/in/carlos-jamar
