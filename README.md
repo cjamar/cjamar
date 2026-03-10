@@ -18,7 +18,7 @@ Supabase • REST APIs • Clean architecture
 
 ## 📱 Featured Project
 
-### Nubli
+### Nubli App
 A simple shared notes and lists app built with Flutter.
 The idea is to help two people keep track of things together.
 
