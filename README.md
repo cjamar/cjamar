@@ -19,8 +19,8 @@ Supabase • REST APIs • Clean architecture
 ## 📱 Featured Project
 
 ### Worn-e App
-A minimalist app built with Flutter designed to share, manage and recover 
-your personal clothes with people you trust, like a shared virtual closet.
+A minimalist app built with Flutter designed to share, 
+manage and recover your personal clothes with people you trust, like a shared virtual closet.
 
 _Flutter • BLoC • Supabase Auth • Realtime database_
 
