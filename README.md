@@ -18,9 +18,9 @@ Supabase • REST APIs • Clean architecture
 
 ## 📱 Featured Project
 
-### Nubli App
-A simple shared notes and lists app built with Flutter.
-The idea is to help two people keep track of things together.
+### Worn-e App
+A minimalist app built with Flutter designed to share, manage and recover your personal clothes 
+with people you trust, like a shared virtual closet.
 
 _Flutter • BLoC • Supabase Auth • Realtime database_
 
